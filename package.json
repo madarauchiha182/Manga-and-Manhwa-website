@@ -1,0 +1,24 @@
+{
+  "name": "inkverse-manga-manhwa-library",
+  "version": "1.0.0",
+  "description": "InkVerse: The premier Manga and Manhwa library platform for buying, renting, and reading digital and physical editions.",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve ."
+  },
+  "keywords": [
+    "manga",
+    "manhwa",
+    "library",
+    "rental",
+    "ecommerce",
+    "web-technology",
+    "inkverse"
+  ],
+  "author": "Arnav Vaidya",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
